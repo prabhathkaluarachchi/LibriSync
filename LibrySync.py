@@ -9,13 +9,6 @@ print('''
                                                                                                              
 ''')
 
-
-
-
-
-
-
-
 # Gettings Inputs user name
 name_start = input("Please Enter Your Name to Get Started : ")
 print("Hello, ", name_start)
