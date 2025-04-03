@@ -1,5 +1,5 @@
 ### **📚 LibriSync**  
-*A Python-based Library Management System for managing books, magazines, DVDs, and lecture CDs.*
+*A Python-based Library Management System for managing books, magazines, educational DVDs, and lecture CDs.*  
 
 ---
 
@@ -20,14 +20,14 @@
 5️⃣ **View All Resources**  
 0️⃣ **Exit the System**  
 
-### **📀 Lecture CD Management**  
-- **Add a new Lecture CD**  
-- **Remove a CD**  
-- **View available CDs**  
-- **View unavailable CDs**  
-- **Search CDs by Subject**  
-- **Lend a CD**  
-- **Update CD details**  
+### **📦 Resource Management**  
+- **Add a new resource**  
+- **Remove a resource**  
+- **View available resources**  
+- **View unavailable resources**  
+- **Search resources by subject**  
+- **Lend a resource**  
+- **Update resource details**  
 
 ---
 
@@ -41,7 +41,7 @@
    ```sh
    python LibriSync.py
    ```
-   
+
 ---
 
 ## **🛠️ Technologies Used**  
@@ -68,3 +68,5 @@ Developed by **[Prabhath Kaluarachchi](https://github.com/prabhathkaluarachchi/)
 
 ### **📢 Contribute**  
 Feel free to **fork** the repository, raise **issues**, or submit a **pull request** to improve the system! 🚀  
+
+---
